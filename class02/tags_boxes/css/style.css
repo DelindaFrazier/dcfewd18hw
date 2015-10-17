@@ -1,0 +1,29 @@
+body {
+	font-family: helvetica,arial,sans;
+	line-height: 1.5;
+}
+
+h1 {
+	background: red;
+	border: 5px solid black;
+	padding: 15px;
+}
+
+p {
+	background: blue;
+	padding: 15px;
+	color: white;
+	border: 5px solid black;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+code{
+	font-family: monospace;
+	background: white;
+	color: black;
+	padding: 3px;
+	border: 1px solid black;
+}
